@@ -1,6 +1,6 @@
 package com.example.javven.pubmatictest;
 
-public class Vehicle {
+public class Vehicle extends ListItem {
 
   public String name = "Mercedes Benz Class A";
 
